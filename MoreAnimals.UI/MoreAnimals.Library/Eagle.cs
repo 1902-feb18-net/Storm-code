@@ -11,7 +11,7 @@ namespace MoreAnimals.Library
             Console.WriteLine("Caw!");
         }
 
-        public void GoTo(string location)
+        public new void GoTo(string location)
         {
             Console.WriteLine($"I'm an eagle, flying to {location}");
         }
