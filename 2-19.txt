@@ -1,0 +1,85 @@
+						WEEKLY TOPICS FOR WEEK 1
+c# anatomy - lang, compiler, runtime, platform, gernal features, program structures
+
+.NET building blocks - framework, standard, core, project. assembly, solution, application, library
+
+infrastructure - CLI,CLR,CTS,BCL,VES,JIT compiler, CIL/MSIL
+
+managed/unmanaged
+
+data types - value, reference
+
+access modifiers
+extended modifiers
+
+class, struct, interface, enum
+
+sepertion of concerns, KISS, DRY, comments
+
+OOP priciples - abstraction, polymorphism, encapsulation, inheritance
+
+advanced data types - upcasting, downcasting, implicit, explicit, boxing, is, ref, out, typeof
+
+collections, generics - array, list, set, dictionary, stack, queue
+
+serialization - XML, file I/O, Json
+regular expresions
+
+exception handling - try, catch, finally, throw
+
+testing - unit test, xunit, arrange/act/assert, TDD
+
+debugging
+
+logging
+
+SOLID principles
+
+delegates - Action, Func, lambda, LINQ, events
+
+Task - async, await
+
+Git - status, add, commit, push, pull, diff log, clone
+
+bash - ls, mkdir, cd
+
+
+I guess that's a lot of stuff but we'll figure it out as time goes by.
+
+should be able to explain all the tools what they are and do.
+
+rm is code of remove works on files  rm -r to remove folders
+
+gitignore hides the files we'll never have look at like bin and whatnot.
+
+when uploading things. you have to use git add then git commit and it will pull up text
+you must type something for it to branch then you git push
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
