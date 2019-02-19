@@ -4,20 +4,16 @@ using System.Text;
 
 namespace MoreAnimals.Library
 {
-    public class Dog : IAnimal
+    public abstract class ABird : IAnimal
     {
         public int AnimalId { get; set; }
         public string Name { get; set; }
-        public string Breed { get; set; }
 
-        public void MakeNoise()
-        {
-            Console.WriteLine("Woof!");
-        }
+        abstract public void MakeNoise();
 
         public void GoTo(string location)
         {
-            Console.WriteLine($"Walking to {location}");
+            Console.WriteLine($"Flying to {location}");
         }
     }
 }
