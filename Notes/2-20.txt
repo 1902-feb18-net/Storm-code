@@ -81,3 +81,9 @@ theory is another attribute that allows a set of parameters.
 
 					you really need to look at the testing stuff
 					and the generic stuff
+
+better to not do a lot in the contructor but leave it so it can have that null val
+Then do everything after the fact. Which is cool I guess.
+
+there is such a thing as a .validate method.
+
