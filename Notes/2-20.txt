@@ -78,3 +78,6 @@ declare types at the top of the class.
 children of generics you just replace with the type needed if not generic.
 
 theory is another attribute that allows a set of parameters.
+
+					you really need to look at the testing stuff
+					and the generic stuff

@@ -5,7 +5,12 @@ namespace MemoryList
 {
     public class MemoryList<T>
     {
-        private List<T> mine;
+        public MemoryList()
+        {
+
+        }
+
+        private List<T> mine = new List<T>();
         public void Add(T value)
         {
             mine.Add(value);
