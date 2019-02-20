@@ -1,0 +1,70 @@
+yawn wake up boys lets go its time to start the day.
+
+Going to start by learning more about git then gitting *git it.... ok i'll stop now.* first assignment.
+
+master on github is a remote branch the master on local is the local branch.
+
+pull is both fetch and merge. Fetch updates tracking branches.
+Merge (no argument) merges branches respectively
+
+for git pull and push often. and commit often.
+
+note to self when you CLI a new console with " dotnet new console - n name" it creates its own folder.
+
+arrays are crazy can we not.
+
+old arraylist uses objects which is the most general this isn't generic.
+
+should just use regular list anyway.
+
+regular lists are just vectors lul.
+
+lists type check by what you initilize. go figure.
+
+sets are unique. they are called Hashset
+
+Maps with the one to one holding for like grades are called Dictionary
+
+Might just use a class instead that can fill the role.
+
+value types - int,double, bool, float, long, ect.
+
+refernce types - custom classes, list, arrays, holders pretty sure.
+should work just like pointers and changed with what its referenced to even if not directly.
+structs are value types though so thats cool I guess.
+
+means value types are delected from memory as soon as out of scope. aka no memory leaks
+
+but reference types use less memory when same value is used elsewhere in code and outside scope.
+
+unmanaged code has to write code to delete references. managed is this ez mode?
+
+managed periodically looks for unreachable at cost of performance.
+
+== compares values by values and references by references. which is smart yo.
+
+string is a huge liar though and compares values anyway because it can.
+
+upcasting things implictl is called boxing. like int into an object. changes it to reference.
+
+unboxing is down with downcasting. aka explict (int)
+
+want to find = exact val of ref use .equals and you're in business.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
