@@ -74,3 +74,25 @@ CLI,VES,CTS,BCL is the interface standard for .Net code.
 
 New way is the .Net Core which is cross-platform
 
+Common Language Runtime = (CLR)
+
+types - class, struct, interface, enum, delegate
+
+delegates look for the return value like void and the arguments like () or (int i)
+
+events have delegate types 
+
+fire events like a methed aka event();
+
+?. is special called null-conditional operator. if thing on left is null it nulls. 
+if not null does thing.
+
+?? is also one returns first thing unless null then it does second.
+a ?? b   will be a or b if a is null.
+
+generics - action<> void returning functions 
+Func<> is all others. last type para is return type. 
+
+
+
+
