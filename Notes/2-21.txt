@@ -1,0 +1,76 @@
+can add methods to existing classes/struct even the standard ones.
+
+stuff like that would normally go in the porjects library
+
+when making the function simply refer to the argument as this. like this int a.
+
+LINQ == Language Integrated Query. Because Fuck you N.
+
+Its all about IEnumerable and IQueryable. all in the ling namespace
+
+=> ====== a lambda. treated like an ordinary object but anon.
+
+Func is a special type that is an object function?
+
+treat methods like just another piece of data. List of functions oh god.
+
+c# can use functinal of things but is still more OOP.
+
+can pass methods as arguments inside of things like .Sum() and they will call it on their own.
+
+No need to call the method just pass it.
+
+c# does have some immutable classes if you're into that.
+
+LINQ has a method and a query syntax.
+
+has a count and a count(filter) for most things which is the best thing I've ever heard.
+
+has Any, All, Contains, DefaultIfEmpty, Distinct,select, where
+
+select maps through things. makes new list with said restriction
+where finds certain thing. filters out things.
+
+can save processing power and memory because it doesn't do anthing till needed for the filtering and whatnot.
+called deferred execution
+
+the LINQ returns an IEnumerable never the original type. 
+
+just use a foreach loop to make a var to print out the selected thing after processing.
+
+orderby just sorts list by. 
+
+can use .ToList() at the end to make it process right then and then get an easy return.
+
+IEnumberable is important because it lets you put things in foreach.
+
+.Net is a platform for many languges. c# is the coolest tho yo. 
+
+others include F#, vb.net which is visual basic(avoid). with c# is the core.
+
+also have python, java, R, Typescript, JS, ...
+
+interoperability between lang (limited). 
+
+Common language infrastructure(CLI) not to be confused with Command line Interface(CLI).
+
+Virtual execution system (VES)
+
+common intermidiate language (IL,CIL,MSIL) which are .dll or .exe or bytecode or assembly.
+
+the IL is the instruction set for the VES.
+
+.Net,IL,compiler id all in build
+
+VES, native instructions, JIT are all in run time with hardware.
+
+Common type system (CTS) all of the basic primatives aka booland int and the like.
+
+Base Class Library (BCL) like system namespace. console and output and input.
+
+CLI,VES,CTS,BCL is the interface standard for .Net code.
+
+.Net framework is windows only but can go between 32 nd 64 bit.
+
+New way is the .Net Core which is cross-platform
+
