@@ -93,6 +93,67 @@ a ?? b   will be a or b if a is null.
 generics - action<> void returning functions 
 Func<> is all others. last type para is return type. 
 
+			OOP Principles
 
+Abstraction - seperation between functinality and implementation. Properties, methods, CTS
 
+Encapsulation - restricting access within objects. Packaging related things together.
+objects, access modifiers, 
 
+Polymorphism - possibility of many implementations behind common contract.
+method overriding - don't really know what they are calling just gets to them
+method overloading - methods able to take different types of parameters all under same name.
+
+ability to treat a derivied class object as if it were base class.
+
+Inhereitance - ability to take a class and extend its behavior to other classes.
+inhereitance is a thing composition has a thing. when stealing other things.
+
+cannot override base methods so when upcasting their methods will be used.
+
+					go look at his MemoryList.
+
+the params thing packages arguments into an array of things.
+
+Objects need to be serialized to send to hard drive.
+
+collects the data from all across memory into a text or binary format.
+
+use Dispose to close filestreams. Because close isn't cool enough.
+
+Always use exception handling when filestreaming.....
+
+you fell behind on the serialization and should look at his code.
+
+or maybe you didn't and you just didn't have a proper filepath.
+
+using statement is something to use resources at that moment then get rid of them.
+No the same as using that is at the top of the files.
+
+for Async all of their methods return tasks. 
+you have to await them. the task that is. give the method an async modifier.
+and the return type has to be a task. aka Task<the real thing>
+
+.Result for async stuff means ou done messed up.
+
+async code means async tests and xunit can handle that yo.
+
+the async stuff is wack json and the xml. But you know what you'll get used to it I guess.
+
+alt shift f 
+that formats everything out for json stuff
+
+					project 0 first look
+
+console app to manage a store and its inventory.
+
+do things like keep track of customers. 
+Keep track of store locations. 
+order history
+statistics on orders.
+keep track of inventory
+restrictions like no more than 10 pizzas allowed. a few of those.
+menu based interface.
+as well as a testing project.
+save load from file.
+or sql database
