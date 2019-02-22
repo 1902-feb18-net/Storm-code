@@ -41,7 +41,8 @@ seperation of concerns - min tight coupling, lol comment your code too.
 Use XML comments for public API, DRY - don't repeat yourself
 KISS - Keep it simple stupid.
 
-
+must have the classes and the testing for project 0 done be wednesday. 
+Should also have most of the console done.
 
 
 
