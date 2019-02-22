@@ -6,5 +6,6 @@ namespace ComicStore.Library
 {
     class Review
     {
+        // Todo: Add review members
     }
 }
