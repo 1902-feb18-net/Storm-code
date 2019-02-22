@@ -2,7 +2,7 @@
 
 namespace ComicStore.Library
 {
-    public class Class1
+    public class ComicStore
     {
     }
 }
